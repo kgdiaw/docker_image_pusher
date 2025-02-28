@@ -1,2 +1,2 @@
 nginx
-clash
+dreamacro/clash:dev
