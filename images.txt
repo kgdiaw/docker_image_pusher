@@ -1,2 +1,3 @@
 nginx
 dreamacro/clash:dev
+alist
